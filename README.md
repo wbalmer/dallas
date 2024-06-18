@@ -1,0 +1,1 @@
+requries spaceKLIP (https://github.com/kammerje/spaceKLIP), any recent stable version should be fine. mostly just a notebook showing how to use the mast API in spaceKLIP to download as many NIRCam reference stars as you want.
